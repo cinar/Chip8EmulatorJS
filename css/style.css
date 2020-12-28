@@ -1,0 +1,83 @@
+body {
+  background-color: #202330;
+  color: #d4d4d4;
+  font-family: Consolas, 'Courier New', monospace;
+}
+
+a {
+  color: #d4d4d4;
+}
+
+h1 {
+  font-size: 1.5em;
+}
+
+.mark {
+  background-color: #8fd8d8e3;
+  color: #202330;  
+}
+
+.panel {
+  overflow: auto;
+}
+
+.panel-left {
+  float: left;
+  margin-right: 20px;
+}
+
+.panel-right {
+  float: left;
+}
+
+#controls > select {
+  width: 120px;
+}
+
+#controls > button {
+  margin: 0 0 0 4px;
+}
+
+#display canvas {
+  border: 1px solid #d4d4d4;
+}
+
+#keyboard button {
+  width: 30px;
+  height: 30px;
+}
+
+#description {
+  padding: 80px 0 20px 0;
+  width: 200px;
+}
+
+#registers td {
+  padding: 2px;
+}
+
+#memory table {
+  display: inline-block;
+  max-height: 300px;
+  overflow-y: scroll;
+}
+
+#memory th {
+  background-color: #202330;
+  position: sticky;
+  top: 0;
+}
+
+#memory td {
+  padding: 2px;
+}
+
+#instructions table {
+  display: inline-block;
+  max-height: 460px;
+  overflow-y: scroll;
+}
+
+#instructions td {
+  padding: 2px;
+}

@@ -1,0 +1,24 @@
+{
+  "name": "chip8emulatorjs",
+  "version": "1.0.0",
+  "description": "CHIP-8 Emulator",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cinar/Chip8EmulatorJS.git"
+  },
+  "author": "Onur Cinar <onur.cinar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cinar/Chip8EmulatorJS/issues"
+  },
+  "homepage": "https://github.com/cinar/Chip8EmulatorJS#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.16.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
