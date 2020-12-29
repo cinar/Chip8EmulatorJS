@@ -10,13 +10,13 @@ The entire code can run as a standalone web page. There are no dependencies to a
 
 ## Demo
 
-[Demo Page](https://chip8emulatorjs.onurcinar.repl.co/) at Repl.it.
+[Demo Page](https://cinar.github.io/Chip8EmulatorJS/).
 
 ![Emulator screenshot](images/screenshot.gif)
 
 ## Usage
 
-Choose a game and click the `Load` button. Once the game is loaded, you can either click the `Step` button to step through each individual insturction, or you can click the `Start` button to run the emulator. At any point in time, you can click the `Stop` button to stop the emulator. If you woud like to load a different game, simply refresh the page.
+Choose a game and click the `Load` button. Once the game is loaded, you can either click the `Step` button to step through each individual insturction, or you can click the `Start` button to run the emulator. At any point in time, you can click the `Stop` button to stop the emulator. If you woud like to load a different game, simply click the `Reset` button.
 
 ## Resources
 
