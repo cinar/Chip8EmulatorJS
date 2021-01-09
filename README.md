@@ -2,7 +2,7 @@
 
 This is a CHIP8 emulator that I developed in JavaScript. I was looking for a puzzle to keep my mind busy over the holidays. I was also looking for an opportunity to explore developing an application using an online IDE. I never built an emulator before, so this was my attempt to build one. I used [Repl.it](http://repl.it) as my online IDE.
 
-I primarily used the [CHIP-8 Wikipedia](https://en.wikipedia.org/wiki/CHIP-8) page as a guide. The emulator has 4096KB of memory, 16 8-bit registers, 64x32 display, and 16 keys.
+I primarily used the [CHIP-8 Wikipedia](https://en.wikipedia.org/wiki/CHIP-8) page as a guide. The emulator has 4KB of memory, 16 8-bit registers, 64x32 display, and 16 keys.
 
 I was particularly  interested in seeing how the machine works at each step, so that I spent most of the time developing views to show the changes that are happening on the memory and the registers. There is also a view for the instructions to show the flow of the execution.
 
